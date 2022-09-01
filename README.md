@@ -1,4 +1,12 @@
-Hi 👋 My name is Thorben Dreier ===============================  * 🌍  I'm based in Worms, Germany * ✉️  You can contact me at [dreier.thorben@gmail.com](mailto:dreier.thorben@gmail.com) * 🚀  I'm currently working on [coinflask.io](http://coinflask.io) * 🧠  I'm learning Flutter & Dart 💙, State Management , Bitcoin ₿ * 🤝  I'm open to collaborating on interesting projects as developer, architect or designer * ⚡  I recently fell into the rabbit hole... and im still falling!
+Hi 👋 My name is Thorben Dreier 
+===============================  
+
+* 🌍  I'm based in Worms, Germany 
+* ✉️  You can contact me at [dreier.thorben@gmail.com](mailto:dreier.thorben@gmail.com) 
+* 🚀  I'm currently working on [coinflask.io](http://coinflask.io) 
+* 🧠  I'm learning Flutter & Dart 💙, State Management , Bitcoin ₿ 
+* 🤝  I'm open to collaborating on interesting projects as developer, architect or designer 
+* ⚡  I recently fell into the rabbit hole... and im still falling!
 
 <a href="https://www.twitter.com/Thorben_3r" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Thorben_3r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/ThorbenD" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ThorbenD?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
