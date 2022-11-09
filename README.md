@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&pause=1000&width=600&height=60&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Thorben...)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Worms, Germany 
-* ✉️  You can contact me at [dreier.thorben@gmail.com](mailto:dreier.thorben@gmail.com) 
+* ✉️  You can contact me at [t_3r@gmx.de](mailto:t_3r@gmx.de) 
 * 🚀  I'm currently working on [coinflask.io](http://coinflask.io) 
 * 🧠  I'm learning Flutter & Dart 💙, State Management , Bitcoin ₿ 
 * 🤝  I'm open to collaborating on interesting projects as developer, architect or designer 
