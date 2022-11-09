@@ -3,7 +3,7 @@
 * 🌍  I'm based in Worms, Germany 
 * ✉️  You can contact me at [t_3r@gmx.de](mailto:t_3r@gmx.de) 
 * 🚀  I'm currently working on [coinflask.io](http://coinflask.io) 
-* 🧠  I'm learning Flutter & Dart 💙, State Management , Bitcoin ₿ & Lightning ⚡️
+* 🧠  I'm learning Flutter & Dart 💙, State Management , Bitcoin ₿ & Lightning Network ⚡️
 * 🤝  I'm open to collaborating on interesting projects as developer, architect or designer 
 * ⚡  I recently fell into the rabbit hole... and im still falling!
 
