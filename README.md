@@ -2,21 +2,21 @@
 
 ---
 
-### Über mich
+### About Me
 
-Erfahrener Senior Fullstack Engineer mit Schwerpunkt im **Bankenumfeld und Zahlungsverkehr**.
-Ich arbeite an der Schnittstelle zwischen klassischer Finanzinfrastruktur und dezentralen Technologien –
-von reguliertem Zahlungsverkehr über **Bitcoin / Lightning Network / Taproot Assets** bis hin zu
-**Digital Assets und RWA-Tokenisierung**.
+Senior Fullstack Engineer specializing in **banking and payment systems**.
+I work at the intersection of traditional financial infrastructure and decentralized technology –
+from regulated payment processing to **Bitcoin / Lightning Network / Taproot Assets** and
+**Digital Assets & RWA Tokenization**.
 
-Meine Leidenschaft gilt sauberem Code, robusten Systemen und dem Aufbau zukunftsfähiger Finanzinfrastruktur.
+I'm passionate about clean code, resilient systems, and building future-proof financial infrastructure.
 
-- 🏦 Fullstack im Banken- & Finanzumfeld (MiFID, BFSG/WCAG, Regulatorik)
-- ₿ Bitcoin, Lightning Network, Taproot Assets & Digital-Asset-Infrastruktur
-- 🏗️ RWA-Tokenisierung & dezentrale Finanzprotokolle
+- 🏦 Fullstack in banking & finance (MiFID, WCAG/BFSG, regulatory compliance)
+- ₿ Bitcoin, Lightning Network, Taproot Assets & digital asset infrastructure
+- 🏗️ RWA Tokenization & decentralized financial protocols
 - 🌍 Based in Germany
 - ✉️ [t_3r@gmx.de](mailto:t_3r@gmx.de)
-- 🤝 Offen für Zusammenarbeit rund um Payments, Bitcoin & Digital Assets
+- 🤝 Open to collaborating on payments, Bitcoin & digital asset projects
 
 ---
 
@@ -41,7 +41,7 @@ Meine Leidenschaft gilt sauberem Code, robusten Systemen und dem Aufbau zukunfts
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 </p>
 
-#### Infrastruktur & DevOps
+#### Infrastructure & DevOps
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
@@ -50,15 +50,15 @@ Meine Leidenschaft gilt sauberem Code, robusten Systemen und dem Aufbau zukunfts
 
 ---
 
-### Fokusthemen
+### Focus Areas
 
-| Bereich | Details |
+| Area | Details |
 |---|---|
-| ⚡ Lightning Network | Payment Channels, BOLT-Protokoll, Node-Betrieb & -Integration |
-| 🍃 Taproot Assets | Asset-Issuance, Transfer-Protokoll, LND-Integration |
-| 🏦 Zahlungsverkehr | SEPA, Instant Payments, regulierte Zahlungsinfrastruktur |
-| 🪙 Digital Assets & RWA | Tokenisierung realer Vermögenswerte, On-Chain Settlement |
-| 🔒 Security by Design | Responsible Disclosure, Threat Modeling, Burp Suite, Ghidra |
+| ⚡ Lightning Network | Payment channels, BOLT protocol, node operation & integration |
+| 🍃 Taproot Assets | Asset issuance, transfer protocol, LND integration |
+| 🏦 Payment Systems | SEPA, instant payments, regulated payment infrastructure |
+| 🪙 Digital Assets & RWA | Tokenization of real-world assets, on-chain settlement |
+| 🔒 Security by Design | Responsible disclosure, threat modeling, Burp Suite, Ghidra |
 
 ---
 
