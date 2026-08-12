@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&pause=1000&width=700&height=60&background=45E5FF00&center=true&vCenter=true&lines=Senior+Fullstack+Engineer;Banking+%7C+Payments+%7C+Digital+Assets;Bitcoin+%E2%82%BF+%7C+Lightning+%E2%9A%A1+%7C+Taproot+Assets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&pause=1000&width=800&height=60&background=45E5FF00&center=true&vCenter=true&lines=Senior+Fullstack+Engineer;Banking+%7C+Payments+%7C+Digital+Assets;Bitcoin+%E2%82%BF+%7C+Lightning+%E2%9A%A1+%7C+Taproot+Assets)](https://git.io/typing-svg)
 
 ---
 
@@ -15,7 +15,6 @@ I'm passionate about clean code, resilient systems, and building future-proof fi
 - ₿ Bitcoin, Lightning Network, Taproot Assets & digital asset infrastructure
 - 🏗️ RWA Tokenization & decentralized financial protocols
 - 🌍 Based in Germany
-- ✉️ [t_3r@gmx.de](mailto:t_3r@gmx.de)
 - 🤝 Open to collaborating on payments, Bitcoin & digital asset projects
 
 ---
